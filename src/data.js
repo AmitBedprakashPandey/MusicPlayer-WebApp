@@ -239,5 +239,18 @@ export const AudioFile = [
     released: "September 16, 2023",
     img: Jalsa2MissionRaniganjImg,
     url: Jalsa2MissionRaniganj,
+  },{
+    title: "Hum Toh Deewane",
+    singers: "Yasser Desai",
+    released: "15 September  2023",
+    img: HumTohDeewaneYasserDesaiImg,
+    url: HumTohDeewaneYasserDesai,
+  },
+  {
+    title: "Bhula Du",
+    singers: "Stebin Ben, Payal Dev",
+    released: "September 15, 2023",
+    img: BhulaDuStebinBenImg,
+    url: BhulaDuStebinBen,
   }
 ];
